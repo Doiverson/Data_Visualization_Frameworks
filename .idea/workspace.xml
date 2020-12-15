@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd7db6fb-4f8c-4aef-bdb2-6f5a77deb951" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../apexchart/src/assets/apple-11.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexchart/src/assets/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexchart/src/assets/tesla.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fortnite-tracker/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fortnite-tracker/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fortnite-tracker/.idea/codeStyles/Project.xml" afterDir="false" />
@@ -107,16 +110,6 @@
       <change afterPath="$PROJECT_DIR$/../untitled15/site.webmanifest" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled15/tile-wide.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled15/tile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/visuals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Antd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semiotic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/tesla.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Olive/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Olive/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Olive/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Olive/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -148,6 +141,12 @@
       <change beforePath="$PROJECT_DIR$/../untitled9/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled9/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled9/src/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/src/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Semiotic.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semiotic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/tesla.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/tesla.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +162,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lO243P3PgVSru9lTu4JrnTkCQi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -177,7 +176,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -219,7 +218,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607453622837</updated>
-      <workItem from="1607453625531" duration="10399000" />
+      <workItem from="1607453625531" duration="10494000" />
+      <workItem from="1607677786147" duration="14000" />
+      <workItem from="1607974388183" duration="4632000" />
     </task>
     <servers />
   </component>

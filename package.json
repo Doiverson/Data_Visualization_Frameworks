@@ -10,6 +10,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
+    "react-vis": "^1.11.7",
     "recharts": "^1.8.5",
     "semiotic": "^1.20.6",
     "web-vitals": "^0.2.4"
@@ -39,7 +40,7 @@
     ]
   },
   "devDependencies": {
-    "@ant-design/charts": "^1.0.11",
+    "@ant-design/charts": "^1.0.13",
     "d3-scale": "^3.2.3"
   }
 }

@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd7db6fb-4f8c-4aef-bdb2-6f5a77deb951" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../apexchart/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexchart/.idea/apexchart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexchart/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexchart/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexchart/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexchart/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexchart/.idea/watcherTasks.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../apexchart/src/assets/apple-11.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../apexchart/src/assets/img.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../apexchart/src/assets/tesla.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexchart/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexcharts/.idea/apexcharts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexcharts/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexcharts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apexcharts/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fortnite-tracker/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fortnite-tracker/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fortnite-tracker/.idea/codeStyles/Project.xml" afterDir="false" />
@@ -30,6 +42,7 @@
       <change afterPath="$PROJECT_DIR$/../fortnite-tracker/src/setupTests.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fortnite-tracker/yarn.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fortnite/.idea/fortnite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-vis/src/Vis.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server/client/src/apis/axios.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server/client/src/components/CreatePlan.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server/client/src/components/Dashboard.js" afterDir="false" />
@@ -110,6 +123,7 @@
       <change afterPath="$PROJECT_DIR$/../untitled15/site.webmanifest" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled15/tile-wide.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled15/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vis.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Olive/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Olive/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Olive/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Olive/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -142,11 +156,10 @@
       <change beforePath="$PROJECT_DIR$/../untitled9/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled9/src/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/src/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semiotic.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semiotic.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/tesla.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/tesla.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +187,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
@@ -220,7 +232,8 @@
       <updated>1607453622837</updated>
       <workItem from="1607453625531" duration="10494000" />
       <workItem from="1607677786147" duration="14000" />
-      <workItem from="1607974388183" duration="4632000" />
+      <workItem from="1607974388183" duration="4973000" />
+      <workItem from="1609892407652" duration="10077000" />
     </task>
     <servers />
   </component>

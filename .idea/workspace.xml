@@ -42,6 +42,7 @@
       <change afterPath="$PROJECT_DIR$/../fortnite-tracker/src/setupTests.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fortnite-tracker/yarn.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fortnite/.idea/fortnite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-vis/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-vis/src/Vis.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server/client/src/apis/axios.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server/client/src/components/CreatePlan.js" afterDir="false" />
@@ -123,7 +124,6 @@
       <change afterPath="$PROJECT_DIR$/../untitled15/site.webmanifest" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled15/tile-wide.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled15/tile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vis.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Olive/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Olive/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Olive/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Olive/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
@@ -159,7 +159,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vis.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vis.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +233,8 @@
       <workItem from="1607453625531" duration="10494000" />
       <workItem from="1607677786147" duration="14000" />
       <workItem from="1607974388183" duration="4973000" />
-      <workItem from="1609892407652" duration="10077000" />
+      <workItem from="1609892407652" duration="10850000" />
+      <workItem from="1609910531272" duration="6849000" />
     </task>
     <servers />
   </component>

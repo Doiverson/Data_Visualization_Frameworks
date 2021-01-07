@@ -44,6 +44,7 @@
       <change afterPath="$PROJECT_DIR$/../fortnite/.idea/fortnite.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-vis/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-vis/src/Vis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rechart_scatter/src/Scatter.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server/client/src/apis/axios.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server/client/src/components/CreatePlan.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../server/client/src/components/Dashboard.js" afterDir="false" />
@@ -157,9 +158,7 @@
       <change beforePath="$PROJECT_DIR$/../untitled9/src/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled9/src/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vis.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +233,8 @@
       <workItem from="1607677786147" duration="14000" />
       <workItem from="1607974388183" duration="4973000" />
       <workItem from="1609892407652" duration="10850000" />
-      <workItem from="1609910531272" duration="6849000" />
+      <workItem from="1609910531272" duration="8101000" />
+      <workItem from="1609980153734" duration="1624000" />
     </task>
     <servers />
   </component>
